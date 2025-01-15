@@ -524,7 +524,7 @@ WHERE NOT EXISTS (
 
 if __name__ == "__main__":
     # Configuration
-    CSV_FILE = "wallabag_entry_202501111550.csv"
+    CSV_FILE = "YOUR_CSV_HERE.csv"
     EXISTING_MAX_TAG_ID = 0
 
     # Process entries and generate network data
