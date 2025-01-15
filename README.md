@@ -24,7 +24,7 @@ A Python-based tool for extracting meaningful keywords from text content and ana
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd network-keyword-extractor
+cd wallabag_keyword_extract
 ```
 
 2. Install required packages:
@@ -147,7 +147,7 @@ The network data JSON follows this structure:
 
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Matthew Duran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
